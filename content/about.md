@@ -1,7 +1,7 @@
 +++
 title = "About"
 date = "2020-01-01"
-#aliases = ["about-us","about-hugo","contact"]
+aliases = ["posts"]
 [ author ]
   name = "Romain Barissat"
 +++

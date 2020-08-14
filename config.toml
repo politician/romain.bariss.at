@@ -42,7 +42,7 @@ disqusShortname = ""
     pinterest_verification = ""
     baidu_verification = ""
 
-    #avatar = "/images/me/avatar.jpeg" #comment it to use gravatar
+    avatar = "/images/me/avatar.jpg" #comment it to use gravatar
     socialShare = false
 
     description = "Romain Barissat" # site description
@@ -51,7 +51,7 @@ disqusShortname = ""
     license= ""
 
 [params.gravatar]
-    email = "romain@barissat.com"   #uncomment and insert your email address to use gravatar
+    #email = "romain@barissat.com"   #uncomment and insert your email address to use gravatar
 
 
 [params.social]
@@ -136,19 +136,19 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     name = "Romain Barissat"
 
     [params.publisher.logo]
-      url = "https://www.gravatar.com/avatar/5622a5c9815f79f757dc6bbd35025c99?s=240&d=mp"
-      width = 100
-      height = 100
+      url = "logo.png"
+      width = 127
+      height = 40
 
   [params.logo]
-    url = "https://www.gravatar.com/avatar/5622a5c9815f79f757dc6bbd35025c99?s=240&d=mp"
-    width = 100
-    height = 100
+    url = "logo.png"
+    width = 127
+    height = 40
 
   [params.image]
-    url = "https://www.gravatar.com/avatar/5622a5c9815f79f757dc6bbd35025c99?s=240&d=mp"
-    width = 100
-    height = 100
+    url = "cover.jpg"
+    width = 800
+    height = 600
 
 [params.gitalk]
 owner = ""       # Your GitHub ID
