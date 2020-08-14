@@ -136,17 +136,17 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     name = "Romain Barissat"
 
     [params.publisher.logo]
-      url = "logo.png"
+      url = "images/logo.png"
       width = 127
       height = 40
 
   [params.logo]
-    url = "logo.png"
+    url = "images/logo.png"
     width = 127
     height = 40
 
   [params.image]
-    url = "cover.jpg"
+    url = "images/cover.jpg"
     width = 800
     height = 600
 
